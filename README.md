@@ -29,11 +29,13 @@ yarn lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 vue add @nklayman/capacitor
-npm install @capacitor/core @capacitor/cli
+yarn add @capacitor/core @capacitor/cli
 npx @capacitor/cli create
 npx cap init
-yarn install @capacitor/android
+yarn add @capacitor/android
 npx cap add android
+
+
 
 
 export CAPACITOR_ANDROID_STUDIO_PATH="/opt/android-studio/bin/studio.sh"
