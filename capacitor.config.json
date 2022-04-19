@@ -1,0 +1,7 @@
+{
+  "appId": "com.wassi.hazim",
+  "appName": "testvuetyfiy",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "linuxAndroidStudioPath": "/opt/android-studio/bin/studio.sh"
+}
